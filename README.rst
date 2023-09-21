@@ -1,9 +1,13 @@
-Sandboxed Execution Environment
-===============================
+Accelerated Antimalignant Sandboxed Execution Environment
+=========================================================
+      A massaged Fork of the F-Secure SEE Project
+      Experimental Dirtpit for malware analysis in
+        Isolated Spaces
+=========================================================
 
-:Source: https://github.com/F-Secure/see
-:Documentation: https://see.readthedocs.io
-:Download: https://pypi.python.org/pypi/python-see
+:Source: https://github.com/dverbeeck/aasee
+:ORIGINAL Documentation via F-Secure SEE Project: https://see.readthedocs.io
+:Download F-Secure SEE: https://pypi.python.org/pypi/python-see
 
 |travis badge| |docs badge|
 
